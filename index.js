@@ -3,7 +3,7 @@ function lowerCased(str){
   return str.toLowerCase();
 }
 function lowerCaseStudentNames(students){
-  return students.map(lowerCased);
+  return students.map(lowearrCased);
 }
 function separateName(studentName){
   var arrOfNames = studentName.split(' ');
